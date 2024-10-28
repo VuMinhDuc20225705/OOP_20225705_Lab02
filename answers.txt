@@ -1,0 +1,1 @@
+Java allows you to create multiple constructors for the same class. In Java, you can create multiple constructors of the same name in a class as long as each one has a different parameter list.
